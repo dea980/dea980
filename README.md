@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daeyeop Kim
-- 👀 I’m interested in Coding, web designing, develop the moblie application
-- 🌱 I’m currently learning Java, C , and React.
+- 👀 I’m interested in Coding, Deloy and Operation, and Data engineering.
+- 🌱 I’m currently learning Artificial Intelligence and Machine learning.
 - 💞️ I’m looking to collaborate on web frame work and mobile application.
 - 📫 You can send me an email : kdea989@gmail.com
 
