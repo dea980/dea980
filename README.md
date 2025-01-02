@@ -2,7 +2,7 @@
 
 🎯 **Software Engineer | Machine Learning Enthusiast | Embedded Systems Developer**
 
-Welcome to my GitHub! I specialize in **firmware development for high-end home theater systems** and **machine learning research**, blending technical expertise with creativity to build innovative solutions.
+Welcome to my GitHub! I specialize in **firmware development for high-end home theater systems** and **machine learning researcher**, blending technical expertise with creativity to build innovative solutions.
 
 
 
