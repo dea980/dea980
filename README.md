@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I’m Daeyeop Kim
 
-<!--
-**dea980/dea980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software Engineer | Machine Learning Enthusiast | Embedded Systems Developer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I specialize in **firmware development for high-end home theater systems** and **machine learning research**, blending technical expertise with creativity to build innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 About Me  
+- 🎓 **B.S. in Computer Science**, Minor in Statistics, Indiana University Bloomington  
+   🏆 Dean’s List & Academic Scholarship Recipient  
+- 💻 **Current Role:** Firmware Engineer @ **Indy Audio Labs**  
+   - Optimized UI polling speed by **85%** through reverse engineering  
+   - Developed APIs and enhanced web interfaces  
+- 🧠 **Past Research:** Achieved **98% accuracy** in animal key-point detection using deep pose estimation  
+- 🌟 **Co-Founder of Dubu Time:** A mobile productivity app with robust CI/CD pipelines  
+
+---
+
+## 🛠️ Skills
+**Languages:** Python, Java, R, C++, JavaScript  
+**Frameworks & Tools:** TensorFlow, React, Unity, AWS, PostgreSQL  
+**Specialties:** Machine Learning, Embedded Systems, API Development  
+
+---
+
+## 🌐 Let’s Connect  
+💼 [LinkedIn](https://www.linkedin.com/in/daeyeop-kim-372761129/)  
+📫 kdea989@gmail.com 
+
+---
+
