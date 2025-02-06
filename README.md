@@ -18,9 +18,9 @@ Welcome to my GitHub! I specialize in **firmware development for high-end home t
 
 
 ## 🛠️ Skills
-**Languages:** Python, Java, R, C++, JavaScript  
+**Languages:** Python, R 
 **Frameworks & Tools:** TensorFlow, React, Unity, AWS, PostgreSQL  
-**Specialties:** Machine Learning, Embedded Systems, API Development  
+**Specialties:** Machine Learning, Artificial Intelligence, API Development  
 
 
 
