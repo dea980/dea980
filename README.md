@@ -13,7 +13,6 @@ Welcome to my GitHub! I specialize in **machine learning researcher**, blending 
    - Optimized UI polling speed by **85%** through reverse engineering  
    - Developed APIs and enhanced web interfaces  
 - 🧠 **Past Research:** Achieved **98% accuracy** in animal key-point detection using deep pose estimation  
-- 🌟 **Co-Founder of Dubu Time:** A mobile productivity app with robust CI/CD pipelines  
 
 
 
