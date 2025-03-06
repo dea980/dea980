@@ -9,7 +9,7 @@ Welcome to my GitHub! I specialize in **machine learning researcher**, blending 
 ## 🔍 About Me  
 - 🎓 **B.S. in Computer Science**, Minor in Statistics, Indiana University Bloomington  
    🏆 Dean’s List & Academic Scholarship Recipient  
-- 💻 **Current Role:** Firmware Engineer @ **Indy Audio Labs**  
+- 💻 **Recent Role:** Firmware Engineer @ **Indy Audio Labs**  
    - Optimized UI polling speed by **85%** through reverse engineering  
    - Developed APIs and enhanced web interfaces  
 - 🧠 **Past Research:** Achieved **98% accuracy** in animal key-point detection using deep pose estimation  
@@ -18,7 +18,7 @@ Welcome to my GitHub! I specialize in **machine learning researcher**, blending 
 
 ## 🛠️ Skills
 **Languages:** Python, R 
-**Frameworks & Tools:** TensorFlow, React, Unity, AWS, PostgreSQL  
+**Frameworks & Tools:** Pytorch, React, Unity, AWS, MySQL  
 **Specialties:** Machine Learning, Artificial Intelligence, API Development  
 
 
