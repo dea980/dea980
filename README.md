@@ -34,13 +34,6 @@ from real-world sensor data to simulation-driven reinforcement learning.
 
 ---
 
-## What I'm Working On  
-- Developing a bi-directional GRPO pipeline between physiological signals and virtual agents  
-- Preparing for NeurIPS / ICLR submissions (2026–2027)  
-- Writing open-source projects connecting real-world sensor data → simulation environments  
-
----
-
 ## Let’s Connect  
 **Email:** kdea989@gmail.com  
 **LinkedIn:** [linkedin.com/in/daeyeop-kim-372761129/](https://www.linkedin.com/in/daeyeop-kim-372761129/)  
